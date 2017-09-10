@@ -1,5 +1,22 @@
 {
+  "name": "ant-create",
+  "version": "1.0.0",
+  "description": "Create a ant app.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+  },
   "dependencies": {
     "commander": "^2.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGICE/Ant-create.git"
+  },
+  "author": "GGICE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GGICE/Ant-create/issues"
+  },
+  "homepage": "https://github.com/GGICE/Ant-create#readme"
 }
