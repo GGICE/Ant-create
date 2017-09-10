@@ -1,14 +1,13 @@
 {
   "name": "ant-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a ant app.",
   "main": "index.js",
   "devDependencies": {},
   "bin": {
     "ant-create": "./index.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "commander": "^2.11.0"
   },
