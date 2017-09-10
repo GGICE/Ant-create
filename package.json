@@ -4,6 +4,9 @@
   "description": "Create a ant app.",
   "main": "index.js",
   "devDependencies": {},
+  "bin": {
+    "ant-create": "./index.js"
+  },
   "scripts": {
   },
   "dependencies": {
